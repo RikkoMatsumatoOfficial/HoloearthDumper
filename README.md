@@ -1,2 +1,3 @@
 # HoloearthDumper
-HoloearthDumper by RikkoMatsumatoOfficial(Dumping All Functions and Offsets via UnityResolve.hpp)
+
+This Is My First Dumper for Game Holoearth... So Enjoy to use this!!!
